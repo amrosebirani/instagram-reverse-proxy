@@ -10,7 +10,7 @@
     "test": "echo \"Dummy Tests Pass\""
   },
   "engines": {
-    "node": "5.0"
+    "node": "5.10.0"
   },
   "repository": {
     "type": "git",
